@@ -4,11 +4,23 @@
 // be: pitääkö täältä muuttaa vite.configia?
 // be: lisättiiin app.use(express.static('dist')) notta dist tulee käyttöön
 // be: tehtiin puhelinluettelo_fe package.json filuun muutoksia, notta voidaan kaikki pistään gittiin
+// be: tehtiin .gitignore
 // be: tehtiin uusi projekti gittiin
 // ja renderiin ja luotiin uusi projekti
 // tähän linkki
 
+// be
+// echo "# react_phonebook" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
 // git remote add origin https://github.com/JanneJMakinen/react_phonebook.git
+// git push -u origin main
+
+// nyt
+// git add .
+// git commit -m "jotain tähän"
 // git branch -M main
 // git push -u origin main
 
