@@ -1,0 +1,2 @@
+// this request deletes a person with url id /4
+DELETE http://localhost:3001/api/phonebook/4

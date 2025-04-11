@@ -1,0 +1,8 @@
+// this request adds a test person 
+POST http://localhost:3001/api/phonebook
+Content-Type: application/json
+
+{
+    "name": "Test Person",
+    "number": "555-555"
+}
