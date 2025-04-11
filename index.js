@@ -24,6 +24,8 @@
 // git branch -M main
 // git push -u origin main
 
+// tai npm run deploy:full
+
 // exercises 3.7.-3.8 
 // added morgan
 // https://github.com/expressjs/morgan
