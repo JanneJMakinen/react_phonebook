@@ -1,13 +1,12 @@
 
 // exercises 3.9.-3.11.
 // fe: tehtiin muutoksia ks. kommentit ../puhelinluettelo_fe
-// be: pitääkö täältä muuttaa vite.configia?
 // be: lisättiiin app.use(express.static('dist')) notta dist tulee käyttöön
 // be: tehtiin puhelinluettelo_fe package.json filuun muutoksia, notta voidaan kaikki pistään gittiin
 // be: tehtiin .gitignore
 // be: tehtiin uusi projekti gittiin
 // ja renderiin ja luotiin uusi projekti
-// tähän linkki
+// https://react-phonebook-yo1k.onrender.com/
 
 // be
 // echo "# react_phonebook" >> README.md
